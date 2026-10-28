@@ -17,7 +17,7 @@ for value in A:
         second_largest = value
 
 print("Second largest element:", second_largest)
-print(largest)
+print(lar)
 ### i=0 value=10 sl=0 L=10
 ### i=1 value=23 sl=10 L=23
 ### i=2 value=12 sl=12 L=23
